@@ -1,0 +1,11 @@
+ID,Warehouse_block,Mode_of_Shipment,Customer_care_calls,Customer_rating,Cost_of_the_Product,Prior_purchases,Product_importance,Gender,Discount_offered,Weight_in_gms,Reached_on_Time_Y_N
+112,B,Road,4,2,239,3,low,F,65,3679,1
+277,D,Flight,4,2,136,3,low,F,65,1962,1
+359,C,Ship,3,1,140,3,medium,F,65,1291,1
+625,D,Ship,4,3,265,3,low,F,65,3578,1
+741,A,Ship,4,5,139,3,low,F,65,1277,1
+866,F,Ship,6,1,168,5,high,F,65,1601,1
+957,A,Flight,4,1,208,7,high,F,65,2674,1
+1253,C,Ship,5,5,226,3,medium,F,65,3840,1
+1303,D,Ship,4,1,152,3,medium,F,65,1706,1
+1329,A,Ship,5,1,201,3,medium,F,65,2488,1
